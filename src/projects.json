@@ -1,0 +1,50 @@
+[
+    {
+        "name": "ThisThat",
+        "description": "A thought-provoking choice app, displaying THIS or THAT questions for a user to choose from and discuss amongst their friends or debate internally. Built with a team, on which I had the role of concept, design, api routes, and javascript functionality for UX.",
+        "skills": "<i class='devicon-html5-plain'></i> <i class='devicon-css3-plain'></i> <i class='devicon-bootstrap-plain'></i> <i class='devicon-javascript-plain'></i> <i class='devicon-nodejs-plain'></i> <i class='devicon-express-original-wordmark'></i> <i class='devicon-mysql-plain-wordmark'></i> <i class='devicon-sequelize-plain-wordmark'></i> <i class='devicon-handlebars-plain'></i>",
+        "image": "this-that.png",
+        "deployed": "https://this--that.herokuapp.com/",
+        "github": "https://github.com/bgswilde/thisthat"
+    },
+    {
+        "name": "Tech Blog",
+        "description": "A sample blog interface where users can create blog posts to encourage others in the tech world. A practice project utilizing MVC principles, templating engine, and user authentication. Individual project, original code.",
+        "skills": "<i class='devicon-html5-plain'></i> <i class='devicon-css3-plain'></i> <i class='devicon-bootstrap-plain'></i> <i class='devicon-javascript-plain'></i> <i class='devicon-nodejs-plain'></i> <i class='devicon-express-original-wordmark'></i> <i class='devicon-mysql-plain-wordmark'></i> <i class='devicon-sequelize-plain-wordmark'></i> <i class='devicon-handlebars-plain'></i>",
+        "image": "techblog.png",
+        "deployed": "https://wilde-tech-blog.herokuapp.com/",
+        "github": "https://github.com/bgswilde/Tech-Blog"
+    },
+    {
+        "name": "Bucket Traveler",
+        "description": "An application using the opentripmap API, providing a way for a user to search any city to find nature spots to add to their travel Bucket List. Team project, with my role being concept creation, javascript API usage and dynamic content creation.",
+        "skills": "<i class='devicon-html5-plain'></i> <i class='devicon-css3-plain'></i> <i class='devicon-javascript-plain'></i> <i class='devicon-bulma-plain'></i>",
+        "image": "BucketTraveler.png",
+        "deployed": "https://bgswilde.github.io/Bucket-Traveler/",
+        "github": "https://github.com/bgswilde/Bucket-Traveler"
+    },
+    {
+        "name": "Team Profile Generator",
+        "description": "A node.js command line application using prompts to create a styled webpage displaying dynamically created front-end content from user input. Individual project, original code.",
+        "skills": "<i class='devicon-html5-plain'></i> <i class='devicon-css3-plain'></i> <i class='devicon-bootstrap-plain'></i> <i class='devicon-javascript-plain'></i> <i class='devicon-nodejs-plain'></i>",
+        "image": "team.png",
+        "deployed": "",
+        "github": "https://github.com/bgswilde/team-profile-generator"
+    },
+    {
+        "name": "Brian Wilde's React Portfolio",
+        "description": "A little meta to put this on the portfolio, but it's worth pointing out the usage of my skills in this portfolio built through React.",
+        "skills": "<i class='devicon-html5-plain'></i> <i class='devicon-css3-plain'></i> <i class='devicon-bootstrap-plain'></i> <i class='devicon-javascript-plain'></i> <i class='devicon-react-original'></i> <i class='devicon-nodejs-plain'></i>",
+        "image": "portfolio.png",
+        "deployed": "https://bgswilde.github.io/",
+        "github": "https://github.com/bgswilde/React-Portfolio-Wilde"
+    },
+    {
+        "name": "Countryside Christian Church",
+        "description": "A church website for an organization I worked with for over a decade. Site created by Jeff Evans, Evans Design Co. Content and page creation, as well as maintenance done regularly by me.",
+        "skills": "<i class='devicon-wordpress-plain'></i> <i class='devicon-html5-plain'></i> <i class='devicon-css3-plain'></i> <i class='devicon-photoshop-plain'></i>",
+        "image": "ccc.png",
+        "deployed": "https://countrysidechristian.com/",
+        "github": ""
+    }
+]
